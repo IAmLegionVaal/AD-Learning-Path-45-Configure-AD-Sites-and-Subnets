@@ -1,2 +1,7 @@
-# AD-Learning-Path-45-Configure-AD-Sites-and-Subnets
-Advanced Active Directory lab activity: Configure AD Sites and Subnets. Part of a structured beginner-to-advanced Windows Server Active Directory learning path.
+# AD Learning Path 45 — Configure AD Sites and Subnets
+
+This module maps lab IP networks to Active Directory sites, places domain controllers correctly, validates client site discovery, and defines the required evidence.
+
+- [Open the complete setup guide](LAB-GUIDE.md)
+
+Next: `AD-Learning-Path-46-Configure-Site-Links-and-Replication-Schedules`
